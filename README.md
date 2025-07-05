@@ -18,7 +18,7 @@
   width="300" 
   height="200" 
   src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGc0NWw3aXhmZjZ4aG40M2Iwd2E1dmozZGVpejA3cjdtZDB0MjNjeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h1knBYkjHMJLiWa9Qm/giphy.gif" 
-  style="position: relative; top: 20px; left: 200px;" 
+  style="position: fixed; top: 0; right: 0; margin: 10px;"
 />
 
 <br/>
