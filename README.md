@@ -32,18 +32,17 @@
       </ul>
 
       <hr style="margin: 25px 0; border: none; border-top: 2px dashed #ccc;" />
-
-      <h3 style="color: #2c3e50;">🏆 Achievements</h3>
-      <ul style="list-style: none; padding-left: 0;">
-        <li>🥇 <strong style="color: #27ae60;">Top-ranked researcher</strong> in sustainable energy materials</li>
-        <li>📝 <strong>Published work</strong> in international peer-reviewed journals</li>
-        <li>🎯 <strong>Advanced proficiency</strong> in multi-physics simulations and machine learning</li>
-        <li>🌟 <strong>Active open-source contributor</strong> and scientific community mentor</li>
-      </ul>
+<h3 style="color: #2c3e50;">🏆 Achievements</h3>
+<ul style="list-style: none; padding-left: 0;">
+  <li>🥇 <strong style="color: #27ae60;">Top-ranked researcher</strong> in sustainable energy materials</li>
+  <li>📝 <strong>Published work</strong> in international peer-reviewed journals</li>
+<li>🎯 <strong>Advanced proficiency</strong> in multi-physics simulations and machine learning</li>
+<li>🌟 <strong>Active open-source contributor</strong> and scientific community mentor</li>
+</ul>
 
       <hr style="margin: 25px 0; border: none; border-top: 2px dashed #ccc;" />
 
-      <h3 style="color: #2c3e50;">📫 Let's Connect!</h3>
+<h3 style="color: #2c3e50;">📫 Let's Connect!</h3>
       <p>Feel free to reach out if you’d like to discuss:</p>
       <ul style="list-style: square; padding-left: 20px;">
         <li>🤝 Research collaborations in energy materials</li>
