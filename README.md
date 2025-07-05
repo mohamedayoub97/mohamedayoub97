@@ -30,16 +30,38 @@
         <li>💻 <strong style="color: #333;">Coding enthusiast</strong> skilled in <span style="color: #007acc;"><strong>Python</strong></span>, <strong>MATLAB</strong>, <strong>COMSOL</strong>, and <strong>ANSYS</strong></li>
         <li>🌍 <strong style="color: #333;">Driven by passion for</strong> <em style="color: #2c3e50;">sustainable energy</em>, <em style="color: #2980b9;">AI</em>, and <em style="color: #d35400;">scientific innovation</em></li>
       </ul>
+
+      <hr style="margin: 25px 0; border: none; border-top: 2px dashed #ccc;" />
+
+      <h3 style="color: #2c3e50;">🏆 Achievements</h3>
+      <ul style="list-style: none; padding-left: 0;">
+        <li>🥇 <strong style="color: #27ae60;">Top-ranked researcher</strong> in sustainable energy materials</li>
+        <li>📝 <strong>Published work</strong> in international peer-reviewed journals</li>
+        <li>🎯 <strong>Advanced proficiency</strong> in multi-physics simulations and machine learning</li>
+        <li>🌟 <strong>Active open-source contributor</strong> and scientific community mentor</li>
+      </ul>
+
+      <hr style="margin: 25px 0; border: none; border-top: 2px dashed #ccc;" />
+
+      <h3 style="color: #2c3e50;">📫 Let's Connect!</h3>
+      <p>Feel free to reach out if you’d like to discuss:</p>
+      <ul style="list-style: square; padding-left: 20px;">
+        <li>🤝 Research collaborations in energy materials</li>
+        <li>🧪 Computational physics and numerical simulations</li>
+        <li>⚡ Sustainable energy technologies & AI for science</li>
+        <li>🚀 Open-source scientific tools & initiatives</li>
+      </ul>
     </td>
-<td align="center" style="padding: 20px;">
-  <img 
-    src="https://media2.giphy.com/media/h1knBYkjHMJLiWa9Qm/giphy.gif" 
-    width="260" 
-    height="260" 
-    alt="Coding GIF" 
-    style="border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.2);" 
-  />
-</td>
+
+    <td align="center" style="padding: 20px;">
+      <img 
+        src="https://media2.giphy.com/media/h1knBYkjHMJLiWa9Qm/giphy.gif" 
+        width="260" 
+        height="260" 
+        alt="Coding GIF" 
+        style="border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.2);" 
+      />
+    </td>
   </tr>
 </table>
 
