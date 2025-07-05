@@ -1,4 +1,6 @@
-# <p align="center">👋 Hello!! <img src="https://raw.githubusercontent.com/KarthikNayak024/KarthikNayak024/master/assets/wave.gif" alt="waving hand" width="30px"> I'm Mohamed Ayoub Essalami 🚀🌞</p>
+<p align="center">
+  👋 Hello!! <img src="https://raw.githubusercontent.com/KarthikNayak024/KarthikNayak024/master/assets/wave.gif" alt="waving hand" width="30px"> I'm Mohamed Ayoub Essalami 🚀🌞
+</p>
 
 ---
 
@@ -12,6 +14,9 @@
 </a>
 <a href="https://www.youtube.com/@HarissaHumor">
   <img align="left" alt="YouTube" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />
+</a>
+
+<div style="clear: both;"></div>
 
 <div style="text-align: center; margin-top: 20px;">
   <img 
@@ -108,13 +113,13 @@
 
 <h2>⚡️ Where to find me</h2>
 <p>
-  <a target="_blank" href="https://twitter.com/https://x.com/AyoubEssalami" style="display: inline-block;">
+  <a target="_blank" href="https://x.com/AyoubEssalami" style="display: inline-block;">
     <img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" />
   </a>
-  <a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/mohamed-ayoub-essalami/" style="display: inline-block;">
+  <a target="_blank" href="https://www.linkedin.com/in/mohamed-ayoub-essalami/" style="display: inline-block;">
     <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" />
   </a>
-  <a target="_blank" href="https://www.facebook.com/Mohamed ayoub Essalami" style="display: inline-block;">
+  <a target="_blank" href="https://www.facebook.com/MohamedAyoubEssalami" style="display: inline-block;">
     <img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" />
   </a>
   <a target="_blank" href="https://www.youtube.com/@HarissaHumor" style="display: inline-block;">
