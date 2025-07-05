@@ -52,8 +52,7 @@
         <li>🚀 Open-source scientific tools & initiatives</li>
       </ul>
     </td>
-
-    <td align="center" style="padding: 20px;">
+<td align="center" style="padding: 20px;">
       <img 
         src="https://media2.giphy.com/media/h1knBYkjHMJLiWa9Qm/giphy.gif" 
         width="260" 
