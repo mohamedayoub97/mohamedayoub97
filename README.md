@@ -14,9 +14,7 @@
   <img align="left" alt="YouTube" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />
 </a>
 
-<div style="clear: both;"></div>
-
-<div style="text-align: right; margin-top: 20px;">
+<div style="text-align: left; margin-top: 20px;">
   <img 
     alt="Coding GIF" 
     width="350" 
