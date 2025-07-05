@@ -16,7 +16,7 @@
 
 <div style="clear: both;"></div>
 
-<div style="text-align: center; margin-top: 20px;">
+<div style="text-align: right; margin-top: 20px;">
   <img 
     alt="Coding GIF" 
     width="350" 
