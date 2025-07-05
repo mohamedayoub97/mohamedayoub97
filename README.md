@@ -4,8 +4,6 @@
 
 ### 👨‍🎓 About Me
 
-### 👨‍🎓 About Me
-
 <a href="https://x.com/AyoubEssalami">
   <img align="left" alt="Twitter" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />
 </a>
