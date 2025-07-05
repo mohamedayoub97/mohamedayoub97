@@ -13,20 +13,15 @@
 <a href="https://www.youtube.com/@HarissaHumor">
   <img align="left" alt="YouTube" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />
 
-</a>
-<img 
-  alt="Coding GIF" 
-  width="350" 
-  height="250" 
-  src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGc0NWw3aXhmZjZ4aG40M2Iwd2E1dmozZGVpejA3cjdtZDB0MjNjeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h1knBYkjHMJLiWa9Qm/giphy.gif" 
-  style="
-    position: fixed;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    margin: 10px;
-  "
-/>
+<div style="text-align: center; margin-top: 20px;">
+  <img 
+    alt="Coding GIF" 
+    width="350" 
+    height="250" 
+    src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGc0NWw3aXhmZjZ4aG40M2Iwd2E1dmozZGVpejA3cjdtZDB0MjNjeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h1knBYkjHMJLiWa9Qm/giphy.gif" 
+  />
+</div>
+
 <br/>
 <br/>
 
