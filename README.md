@@ -31,7 +31,10 @@
         <strong>🌍 Interests:</strong> <em>Sustainable energy, deep learning, scientific innovation</em>
       </p>
     </td>
-    <img 
+
+    <!-- GIF Section -->
+    <td valign="top" width="40%" align="right">
+      <img 
         src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGc0NWw3aXhmZjZ4aG40M2Iwd2E1dmozZGVpejA3cjdtZDB0MjNjeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h1knBYkjHMJLiWa9Qm/giphy.gif" 
         width="250" 
         height="250" 
