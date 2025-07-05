@@ -33,15 +33,15 @@
     </td>
 
     <!-- GIF Section -->
-    <td align="center" style="padding: 20px;">
-      <img 
-        src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGc0NWw3aXhmZjZ4aG40M2Iwd2E1dmozZGVpejA3cjdtZDB0MjNjeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h1knBYkjHMJLiWa9Qm/giphy.gif" 
-        width="260" 
-        height="260" 
-        alt="Coding GIF"
-        style="border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.2);"
-      />
-    </td>
+<td align="center" style="padding: 20px;">
+  <img 
+    src="https://media2.giphy.com/media/h1knBYkjHMJLiWa9Qm/giphy.gif" 
+    width="260" 
+    height="260" 
+    alt="Coding GIF" 
+    style="border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.2);" 
+  />
+</td>
   </tr>
 </table>
 
