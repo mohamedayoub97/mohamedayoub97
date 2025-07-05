@@ -19,30 +19,32 @@
   </a>
 </p>
 
-<!-- About Me Table Layout -->
-<table>
+<!-- Elegant About Me Section -->
+<table style="border-collapse: collapse; width: 100%;">
   <tr>
     <!-- Text Section -->
-    <td valign="top" width="60%">
-      <p>
-        <strong>🧠 Physics & Energy Engineering Student</strong> from <strong>Tunisia 🇹🇳</strong><br/><br/>
-        <strong>🔬 Research Focus:</strong> <em>Perovskites, Magnetic Refrigeration, Solar Cells</em><br/><br/>
-        <strong>💻 Tech Stack:</strong> <span style="color: #007acc;"><strong>Python</strong></span>, <strong>MATLAB</strong>, <strong>COMSOL</strong>, <strong>ANSYS</strong><br/><br/>
-        <strong>🌍 Interests:</strong> <em>Sustainable energy, deep learning, scientific innovation</em>
-      </p>
+    <td valign="top" style="width: 60%; padding: 20px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 16px; line-height: 1.6;">
+      <ul style="list-style: none; padding: 0;">
+        <li>🧠 <strong style="color: #333;">Physics & Energy Engineering Student</strong> from <strong style="color: #007acc;">Tunisia 🇹🇳</strong></li>
+        <li>🔬 <strong style="color: #333;">Top-ranked researcher</strong> in <em style="color: #c0392b;">Perovskites</em>, <em style="color: #8e44ad;">Magnetic Refrigeration</em>, and <em style="color: #16a085;">Solar Cells</em></li>
+        <li>💻 <strong style="color: #333;">Coding enthusiast</strong> skilled in <span style="color: #007acc;"><strong>Python</strong></span>, <strong>MATLAB</strong>, <strong>COMSOL</strong>, and <strong>ANSYS</strong></li>
+        <li>🌍 <strong style="color: #333;">Driven by passion for</strong> <em style="color: #2c3e50;">sustainable energy</em>, <em style="color: #2980b9;">AI</em>, and <em style="color: #d35400;">scientific innovation</em></li>
+      </ul>
     </td>
 
     <!-- GIF Section -->
-    <td valign="top" width="40%" align="right">
+    <td align="center" style="padding: 20px;">
       <img 
         src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGc0NWw3aXhmZjZ4aG40M2Iwd2E1dmozZGVpejA3cjdtZDB0MjNjeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h1knBYkjHMJLiWa9Qm/giphy.gif" 
-        width="250" 
-        height="250" 
+        width="260" 
+        height="260" 
         alt="Coding GIF"
+        style="border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.2);"
       />
     </td>
   </tr>
 </table>
+
 
 ---
 
