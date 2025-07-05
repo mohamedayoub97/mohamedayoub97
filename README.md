@@ -31,8 +31,6 @@
         <li>🌍 <strong style="color: #333;">Driven by passion for</strong> <em style="color: #2c3e50;">sustainable energy</em>, <em style="color: #2980b9;">AI</em>, and <em style="color: #d35400;">scientific innovation</em></li>
       </ul>
     </td>
-
-    <!-- GIF Section -->
 <td align="center" style="padding: 20px;">
   <img 
     src="https://media2.giphy.com/media/h1knBYkjHMJLiWa9Qm/giphy.gif" 
