@@ -5,33 +5,35 @@
 ### 👨‍🎓 About Me
 
 <a href="https://x.com/AyoubEssalami">
-  <img align="left" alt="Twitter" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />
+  <img alt="Twitter" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/mohamed-ayoub-essalami/">
-  <img align="left" alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
+  <img alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
 </a>
 <a href="https://www.youtube.com/@HarissaHumor">
-  <img align="left" alt="YouTube" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />
+  <img alt="YouTube" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />
 </a>
 
-<div style="display: flex; align-items: center; justify-content: space-between; margin-top: 30px;">
-  <div style="flex: 1; padding-right: 20px;">
-    <ul>
-      <li>🧠 Physics & Energy Engineering Student from Tunisia 🇹🇳</li>
-      <li>🔬 Top-ranked researcher in Perovskites, Magnetic Refrigeration, and Solar Cells</li>
-      <li>💻 Passionate about coding and simulations with Python, MATLAB, COMSOL, and ANSYS</li>
-      <li>🌍 Interested in sustainable energy, deep learning, and scientific innovation</li>
-    </ul>
-  </div>
-  <div style="flex-shrink: 0;">
-    <img 
-      alt="Coding GIF" 
-      width="350" 
-      height="250" 
-      src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGc0NWw3aXhmZjZ4aG40M2Iwd2E1dmozZGVpejA3cjdtZDB0MjNjeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h1knBYkjHMJLiWa9Qm/giphy.gif" 
-    />
-  </div>
-</div>
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      <ul>
+        <li>🧠 <strong>Physics & Energy Engineering Student</strong> from Tunisia 🇹🇳</li>
+        <li>🔬 <strong>Top-ranked researcher</strong> in Perovskites, Magnetic Refrigeration, and Solar Cells</li>
+        <li>💻 <strong>Passionate about coding</strong> and simulations with Python, MATLAB, COMSOL, and ANSYS</li>
+        <li>🌍 <strong>Interested in sustainable energy</strong>, deep learning, and scientific innovation</li>
+      </ul>
+    </td>
+    <td>
+      <img 
+        src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGc0NWw3aXhmZjZ4aG40M2Iwd2E1dmozZGVpejA3cjdtZDB0MjNjeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h1knBYkjHMJLiWa9Qm/giphy.gif" 
+        width="250" 
+        height="250" 
+        alt="Coding GIF"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
